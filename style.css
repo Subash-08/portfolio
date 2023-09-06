@@ -277,6 +277,9 @@ nav li:hover::after {
   padding-top: 70px;
   margin-bottom: 70px;
 }
+.about-p{
+  text-indent: 100px;
+}
 .eduh{
     display: flex;
     align-items: center;
