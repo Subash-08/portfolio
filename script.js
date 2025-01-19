@@ -60,9 +60,6 @@ const hiddenU = document.querySelectorAll('.div3');
 hiddenU.forEach((el) => observerUp.observe(el));
 
 
-
-
-
 const button = document.querySelector("#theme")
 const icon = document.querySelector("i")
 
